@@ -12,7 +12,7 @@ BoardMember.prototype.approve(){
   return 'You can do that!'
 }
 
-BoardMember.prototype.vet(){
+BoardMember.prototype.doCharity(){
   return 'No, I must disagree'
 }
 
