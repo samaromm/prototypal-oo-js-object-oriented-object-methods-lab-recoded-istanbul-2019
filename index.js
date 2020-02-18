@@ -7,3 +7,15 @@ function BoardMember(name, homeState,training ){
 BoardMember.prototype.vet(){
   return 'No, I must disagree'
 }
+
+BoardMember.prototype.vet(){
+  return 'No, I must disagree'
+}
+
+BoardMember.prototype.vet(){
+  return 'No, I must disagree'
+}
+
+BoardMember.prototype.vet(){
+  return 'No, I must disagree'
+}
