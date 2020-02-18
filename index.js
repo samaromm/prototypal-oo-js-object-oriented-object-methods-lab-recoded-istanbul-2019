@@ -9,7 +9,7 @@ BoardMember.prototype.vet(){
 }
 
 BoardMember.prototype.approve(){
-  return 'No, I must disagree'
+  return 'You can do that!'
 }
 
 BoardMember.prototype.vet(){
