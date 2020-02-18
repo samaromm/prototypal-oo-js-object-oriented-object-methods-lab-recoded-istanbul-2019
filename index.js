@@ -13,7 +13,7 @@ BoardMember.prototype.approve(){
 }
 
 BoardMember.prototype.doCharity(){
-  return 'No, I must disagree'
+  return 'I like to help people.'
 }
 
 BoardMember.prototype.vet(){
