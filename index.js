@@ -8,7 +8,7 @@ BoardMember.prototype.vet(){
   return 'No, I must disagree'
 }
 
-BoardMember.prototype.vet(){
+BoardMember.prototype.approve(){
   return 'No, I must disagree'
 }
 
