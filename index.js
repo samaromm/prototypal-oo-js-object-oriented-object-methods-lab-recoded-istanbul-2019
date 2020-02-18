@@ -16,6 +16,6 @@ BoardMember.prototype.doCharity(){
   return 'I like to help people.'
 }
 
-BoardMember.prototype.vet(){
+BoardMember.prototype.sayHi(){
   return 'No, I must disagree'
 }
