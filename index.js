@@ -5,5 +5,5 @@ function BoardMember(name, homeState,training ){
 }
 
 BoardMember.prototype.vet(){
-  return ''
+  return 'No, I must disagree'
 }
